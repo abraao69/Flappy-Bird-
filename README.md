@@ -9,6 +9,7 @@ Projeto baseado no game Flappy Bird desenvolvido durante o curso de Web Moderno 
 <hr>
 
 ## Linguagens e tecnologias utilizadas: :computer:
+
 <ul>
   <li> HTML </li>
   <li> CSS </li>
@@ -17,12 +18,11 @@ Projeto baseado no game Flappy Bird desenvolvido durante o curso de Web Moderno 
 
 O projeto foi desenvolvido inteiramente com em HTML, CSS e Javascript, por fazer parte do módulo "Integrando HTML, CSS e Javascritp", de maneira que fosse possível aprofundar os conhecimentos nestas tecnologias.
 
-
 ### Mais informações sobre o curso:
 
-O repositório completo das atividades desenvolvidas por mim no curso, pode ser encontrado através deste <a href="https://github.com/ChristopherHauschild/curso-web-moderno-cod3r">link</a>.
+O repositório completo das atividades desenvolvidas por mim no curso, pode ser encontrado através deste <a href="https://github.com/abraao69/curso-web-moderno-cod3r">link</a>.
 Para se inscrever no curso, basta acessar o site da <a href="https://www.cod3r.com.br/courses/web-moderno">Cod3r</a>
 
 <hr>
 
-Projeto desenvolvido com horas a frente do :computer: por Christopher H. Schott
+Projeto desenvolvido com horas a frente do :computer: por Abraão Martins.
